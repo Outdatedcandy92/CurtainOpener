@@ -4,7 +4,7 @@
 My plan is to make a compact device that is able to open and close my curtain with the use of a NEMA motor, it will also be powered by on-device Li-Po cells and be charged with a solar panel making it fully self sufficient with no need for any external power cables.
 
 
-### Time Spent Overall:
+### Time Spent Overall: 12 Hours
 
 
 # June 19 - Speedrunning the project
@@ -59,3 +59,9 @@ Also designed a mount that screws into the main box and also screws into the wal
 
 Also updated my BOM a bit 
 ![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f7c49bd9ee47e746852bcf265466894e132fc4b6_image.png)
+
+Also spent some time updating and creating a github repo for this project
+
+
+
+### Time Spent: 4 Hours
