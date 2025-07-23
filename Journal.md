@@ -65,3 +65,23 @@ Also spent some time updating and creating a github repo for this project
 
 
 ### Time Spent: 4 Hours
+
+# 15-22 July
+
+Updated the design a lot!
+
+got rid of the solar panel and batteries to reduce cost, just went with a wall adapter for power.
+
+
+*new motor mount*
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f254cdb409c4352ede6f9bf59e0e4b67e1376b5c_image.png)
+
+*new idler*
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1b50151c39fc53b18b28b7761289c440c27df66d_image.png)
+
+
+*new box*
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/43ee5cf89285f22024de84485ae08d6685e71685_image.png)
+
+
+
