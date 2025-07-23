@@ -3,6 +3,10 @@
 A compact DIY curtain opener that uses an ESP32 microcontroller and a NEMA 17 stepper motor to automatically open and close curtains. The device is powered directly from a wall outlet, ensuring consistent and reliable operation.
 
 
+https://github.com/user-attachments/assets/f7b5ea29-201d-4f92-9817-be86e9db4244
+
+
+
 ## Hardware Components
 
 - ESP32 C3 SuperMini
