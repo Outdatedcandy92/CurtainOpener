@@ -69,3 +69,21 @@ MS2_PIN = 9
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bd48201a68f4de720ef6dcef808b0d0c94304497_image.png)
 
 
+## IRL Pics
+
+**Motor**
+
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a1ab29212790c803a154bdb8636eeee0de47712d_20250819_194457.jpg)
+
+
+**Idler**
+
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b3e822d82838e54c2dde38fbf0247bf391b5e340_20250819_194513.jpg)
+
+
+**Enclosure**
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ef18a15c913e1592a6d093ecda7e250634e2401_20250819_194533.jpg)
+
+
