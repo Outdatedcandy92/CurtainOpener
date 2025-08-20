@@ -88,8 +88,25 @@ got rid of the solar panel and batteries to reduce cost, just went with a wall a
 # 23-24 July
 
 I printed out all the parts and mounted them on the wall, vibecoded a little web interface to control it!
-the demo should be in the readme of this project!
+These are the real life pictures of the finished project-
 
+**Motor**
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a1ab29212790c803a154bdb8636eeee0de47712d_20250819_194457.jpg)
+
+
+**Idler**
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b3e822d82838e54c2dde38fbf0247bf391b5e340_20250819_194513.jpg)
+
+
+**Enclosure**
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ef18a15c913e1592a6d093ecda7e250634e2401_20250819_194533.jpg)
+
+
+And this was the vibecoded firmware I made for it. It basically just opens a web interface where i can control the motor from
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6833a559059603cb8435284faebeeb4ff55a634c_image.png)
+
+
+The demo should be in the project readme!
 
 ### Time Spent: 2 Hours
-
